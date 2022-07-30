@@ -1,0 +1,11 @@
+__pycache__
+build*
+compile_commands.json
+.cache/
+.ccache/
+.idea/
+.pgdata/
+.cores/
+cmake-build-*
+Testing/
+configs/static_config.yaml
